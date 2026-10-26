@@ -1,0 +1,11 @@
+# Heuristic Evaluation (Nielsen)
+- **System status:** toasts, result counts, active nav highlight, queue "currently serving".
+- **Real-world match:** "3 patients ahead", "Share Securely", medical terms for staff, plain words for patients.
+- **User control:** Undo, Cancel dialogs, role switcher.
+- **Consistency:** shared Badge, button and dialog components.
+- **Error prevention:** disabled booked slots, confirmations, Save disabled when empty.
+- **Recognition over recall:** allergies in profile header, dropdown lists, breadcrumbs.
+- **Flexibility:** `/` shortcut, dashboard search, quick actions.
+- **Minimalist design:** 3 stats on doctor dashboard, 3 charts on admin.
+- **Error recovery:** specific messages ("Phone number must contain 10 digits."), empty-state hints.
+- **Help:** hints under queue, placeholder text, this documentation.
